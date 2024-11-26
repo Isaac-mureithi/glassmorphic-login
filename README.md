@@ -10,9 +10,7 @@ This project is a modern, user-focused login interface that demonstrates my abil
 - 📄 HTML for semantic and structured content.  
 - 📄 CSS for layout, effects, and responsive design.
 - 🖼️ Boxicons: Lightweight icons for an aesthetic touch.
-- 📄 Background image.
-
-
+  
 
 ✨ LEARNINGS/OUTCOMES:
 1. Blending design with code allows me to translate user interface concepts into clean, maintainable code.

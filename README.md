@@ -8,15 +8,14 @@ This repository demonstrates a responsive login interface created with HTML and 
   
 
 🛠️ BUILT WITH:
-
 ├── 📄 HTML for semantic and structured content.  
 ├── 📄 CSS for layout, effects, and responsive design.
 ├── 🖼️ Boxicons: Lightweight icons for an aesthetic touch.
-└── 🖼️ Background image.
+└── 📄 Background image.
+
 
 
 ✨ KEY LEARNING OUTCOMES:
-
 1. Blending design with code allows me to translate user interface concepts into clean, maintainable code.
 2. Applying responsive design ensures usability across screen sizes.
 3. Utilizing CSS effects enables me to intergrate advanced styling techniques like glassmorphism.

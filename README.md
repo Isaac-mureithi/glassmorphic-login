@@ -1,17 +1,16 @@
-This repository demonstrates a responsive login interface created with HTML and CSS, showcasing my translation of UX design principles to hands-on frontend development. This project emphasizes the intersection of form and functionality, with a focus on creating user-friendly UI that scale beautifully across devices. 
+This project is a modern, user-focused login interface that demonstrates my ability to translate UX design principles into practical frontend development.
 
-
-🎨 DESIGN HIGHLIGHTS: 
-- Minimalistic UI: Focuses on clarity and functionality.
-- Glassmorphism: Uses transparency and blur effects to elevate visual design.
-- Custom Styling: Dynamic input fields with hover and focus states enhance interaction.
+🎨 DESIGN GOALS: 
+- Minimalistic UI - focused on clarity and functionality.
+- Glassmorphism - use of transparency and blur effects to elevate visual design.
+- Custom Styling - dynamic input fields with hover and focus states to enhance interaction.
   
 
 🛠️ BUILT WITH:
-├── 📄 HTML for semantic and structured content.  
-├── 📄 CSS for layout, effects, and responsive design.
-├── 🖼️ Boxicons: Lightweight icons for an aesthetic touch.
-└── 📄 Background image.
+- 📄 HTML for semantic and structured content.  
+- 📄 CSS for layout, effects, and responsive design.
+- 🖼️ Boxicons: Lightweight icons for an aesthetic touch.
+- 📄 Background image.
 
 
 
@@ -22,4 +21,4 @@ This repository demonstrates a responsive login interface created with HTML and 
 
 
 
-🌱 As a UX designer learning frontend development, I aim to bridge the gap between design and engineering, bringing creativity and functionality to life in user interfaces.
+As a UX designer learning frontend development, I aim to bridge the gap between design and engineering, bringing creativity and functionality to life in user interfaces.

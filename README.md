@@ -13,6 +13,6 @@ This project is a modern, user-focused login interface that demonstrates my abil
   
 
 ✨ LEARNINGS/OUTCOMES:
-1. Blending design with code allows me to translate user interface concepts into clean, maintainable code.
-2. Applying responsive design ensures usability across screen sizes.
-3. Utilizing CSS effects enables me to intergrate advanced styling techniques like glassmorphism.
+1. Blending design with code allowed me to translate user interface concepts into clean, maintainable code.
+2. Applying responsive design ensureed usability across screen sizes.
+3. Utilizing CSS effects enabled me to intergrate advanced styling techniques like glassmorphism.
